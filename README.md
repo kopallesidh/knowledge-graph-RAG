@@ -3,7 +3,7 @@
 
 A flexible tool to transform structured **CSV** data into a **Neo4j graph database** using the custom-built **Syfer** domain-specific language (DSL). Designed for rapid knowledge graph construction and semantic relationships.
 
-![Flowchart](./assets/csv_to_neo4j_flow.png)
+![Flowchart](./assets/Knowlage-graph-RAG.png)
 
 ---
 
